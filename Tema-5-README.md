@@ -1,6 +1,7 @@
 # Tema 5 Vizualizarea datelor
 
-## Pentru început, descarcă fișierul cu statisticile campaniilor publicitare de pe Facebook pe calculatorul tău: [facebook_ads_data.csv.zip](https://github.com/user-attachments/files/16750666/facebook_ads_data.csv.zip)
+## Pentru început, descarcă fișierul cu statisticile campaniilor publicitare de pe Facebook pe calculatorul tău: [facebook_ads_data.csv](https://github.com/user-attachments/files/16750900/facebook_ads_data.csv)
+
 ##Într-un notebook nou, încarcă acest fișier într-un DataFrame Pandas și realizează următoarele vizualizări:
 
 1. Grupează datele după zile și creează două grafice pentru datele grupate:
